@@ -1,0 +1,20 @@
+[
+  {
+    "model": "service_sales.saletransaction",
+    "pk": 1,
+    "fields": {
+      "product_name": "Монитор Samsung 27''",
+      "total_price": 134990,
+      "sale_date": "2025-07-28T09:30:00Z"
+    }
+  },
+  {
+    "model": "service_sales.saletransaction",
+    "pk": 2,
+    "fields": {
+      "product_name": "Клавиатура Logitech K120",
+      "total_price": 9990,
+      "sale_date": "2025-07-28T09:40:00Z"
+    }
+  }
+]
